@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+}
+.t1 {
+    color:white;
+    padding: 1%;
+    max-width: 100%;
+    border:5px solid white;
+    position:relative;
+    margin: 40px;
+    flex-shrink: nowrap;
+    text-align:center;
+    
+    
+}
+.t2 {
+    color:white;
+    padding: 1%;
+    max-width: 100%;
+    border:5px solid white;
+    position:relative;
+    margin: 40px;
+    flex-shrink: nowrap;
+    text-align:center;
+    
+    
+}
